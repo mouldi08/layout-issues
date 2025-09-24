@@ -1,0 +1,4 @@
+that's a broken web component: a pricing card layout with layout issues and unresponsive buttons.
+identify and fix layout bugs.
+Refactor it into a reusable component (e.g., Card(title, price, features)).
+Prepare it for reuse.
